@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Web-Browser.iml" filepath="$PROJECT_DIR$/.idea/Web-Browser.iml" />
       <module fileurl="file://$PROJECT_DIR$/WebBrowser/WebBrowser.iml" filepath="$PROJECT_DIR$/WebBrowser/WebBrowser.iml" />
     </modules>
   </component>
