@@ -1,7 +1,7 @@
-/**
- *
- * @author hiverkiya
- *
+/*
+
+  @author hiverkiya
+
  */
 package com.mycompany.webbrowser;
 import javax.swing.*;
